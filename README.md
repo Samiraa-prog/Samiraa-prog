@@ -8,7 +8,7 @@ Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on a project that didn't get a name yet 
 - 🌱 I’m currently learning Javascript 
-- ⚡ Fun fact: my life is diivided into 0 and 1 
+- ⚡ Fun fact: my life is divided into 0 and 1 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samiraa-prog)  
